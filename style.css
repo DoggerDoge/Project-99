@@ -1,0 +1,40 @@
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    height: 300;
+    width: 500;
+    border-radius: 20px;
+}
+
+img:hover {
+    border-radius: 100px;
+    box-shadow: 0 50px 50px 0 rgba(2, 2, 2, 0.2);
+    border-style: dashed;
+    border-width: 10px;
+    border-color: rgb(50, 50, 50);
+}
+
+body {
+    background-color: rgb(150, 150, 150);
+}
+
+#camera {
+    height: 400;
+    width: 400;
+}
+
+h1 {
+    font-family: 'Vampire Wars', sans-serif;
+    font-weight: bolder;
+}
+
+h4 {
+    font-family: 'Lemon/Milk', sans-serif;
+    font-weight: bolder;
+}
